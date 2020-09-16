@@ -34,5 +34,12 @@ Many factors contribute to mental health problems, including:
 - Suggest exercising if required...suggest content and commit to DB.
 - If user engaged, hibernate allow set interval to lapse since last engagement.
 ## Features
-**TODO:** 
-- Add app features.
+- Splash screen and home page
+- User profile
+- Chat module
+- Reminder 
+- Review by Physician
+- Note life activities e.g. exercising
+- Plan and medications
+- and other..
+
